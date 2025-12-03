@@ -1,0 +1,35 @@
+*{
+    background-color: antiquewhite;
+}
+
+
+.main{
+    height: 300px;
+    width: 410px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    left: 125px;
+    top: 250px;  
+    border-radius: 20px; 
+}
+#fir{
+text-align: center;
+}
+#but{
+    background-color: rgb(237, 92, 19);
+    height: 25px;}
+
+#sec{
+    text-align: center;
+    }
+#thi{
+   text-align: center;
+}
+#space{
+    letter-spacing:2px;
+}
+
+    
